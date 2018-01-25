@@ -10,7 +10,7 @@ package miijavaxiv;
  */
 public class Driver {
     public static void main(String[] args) {
-        int hari = 21;
+        int hari = 30;
         Karyawan karyawan = new Karyawan();
         karyawan.setId("12");
         karyawan.setNama("Tes");
